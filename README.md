@@ -4,12 +4,12 @@
 This project explores and analyses a Pizza Sales dataset using Python to uncover valuable business insights.The analysis focuses on identifying sales trends,customer purchasing patterns,product performance, and revenue generation through exploratory data analysis(EDA) and data visualization
 
 # Objectives
-Analyze overall sales performance.
-Identify the best-selling and least-selling pizzas.
-Examine sales trends over time.
-Determine the most popular pizza categories and sizes.
-Analyze peak ordering hours and days.
-Generate visualizations to support business decision-making.
+**Analyze overall sales performance.
+**Identify the best-selling and least-selling pizzas.
+**Examine sales trends over time.
+**Determine the most popular pizza categories and sizes.
+**Analyze peak ordering hours and days.
+**Generate visualizations to support business decision-making.
 
 # Dataset
 
